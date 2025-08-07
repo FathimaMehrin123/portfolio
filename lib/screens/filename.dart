@@ -5,6 +5,11 @@ class hi extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold(
+      body: Container(
+        height: 200,
+        width: 200,
+      ),
+    );
   }
 }
