@@ -7,8 +7,7 @@ class hi extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        height: 200,
-        width: 200,
+
       ),
     );
   }
