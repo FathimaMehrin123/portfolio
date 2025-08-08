@@ -5,8 +5,8 @@ class bfhhd extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: Text('dhsh'),
+    return const Placeholder(
+      
     );
   }
 }
